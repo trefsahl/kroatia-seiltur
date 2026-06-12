@@ -49,8 +49,8 @@
 </Folder>
 
 <Folder><name>3. Zadar-skjærgården</name>
-<Placemark><name>Silba — Žalić (bøyer)</name><styleUrl>#anker</styleUrl><description>Østsiden, ved landsbyen. Le V–SV (maestral). Bytt side ved bura. Lite vann på øya!</description><Point><coordinates>14.7080,44.3740,0</coordinates></Point></Placemark>
-<Placemark><name>Silba — vestsiden (ankring)</name><styleUrl>#anker</styleUrl><description>Bura-siden. 15–20 min gange til landsbyen. Solnedgang.</description><Point><coordinates>14.6940,44.3790,0</coordinates></Point></Placemark>
+<Placemark><name>Silba — Mul / landsbyhavna (østsiden)</name><styleUrl>#anker</styleUrl><description>Ca. 30 plasser m/vann og strøm + bøyer. Le V–SV (maestral). Unngå i bura! Lite vann på øya.</description><Point><coordinates>14.7080,44.3740,0</coordinates></Point></Placemark>
+<Placemark><name>Silba — Sv. Ante / Žalić (vestsiden)</name><styleUrl>#anker</styleUrl><description>Bura-siden: bøyer + ankring i Sv. Ante/Porat. Žalić er fergehavn (få gjesteplasser). 30–40 min gange til landsbyen.</description><Point><coordinates>14.6940,44.3790,0</coordinates></Point></Placemark>
 <Placemark><name>Olib (bøyer)</name><styleUrl>#anker</styleUrl><description>Le N–Ø, utsatt V–SV. Saueost. Stille.</description><Point><coordinates>14.7780,44.3770,0</coordinates></Point></Placemark>
 <Placemark><name>Brgulje, Molat (bøyefelt)</name><styleUrl>#anker</styleUrl><description>UVÆRSSKJULET sør for Silba — le for nesten alt, godt hold i mudder.</description><Point><coordinates>14.8250,44.2380,0</coordinates></Point></Placemark>
 <Placemark><name>Zapuntel-sundet</name><styleUrl>#anker</styleUrl><description>Trangt og stemningsfullt. Strøm — fortøy deretter.</description><Point><coordinates>14.7930,44.2570,0</coordinates></Point></Placemark>

@@ -17,9 +17,13 @@
 | **Bura-varsel, Istria** | Marina Veruda (best i området), ACI Pula, Rovinj ACI |
 | **Bura-varsel, Kvarner** | Mali Lošinj-bukta (innerst), Artatore, ACI Cres, Marina Punat (hurricane hole), Unije landsby-bukta (vestsiden) |
 | **Bura-varsel, sør** | Brgulje (Molat), Pantera/Veli Rat, Telašćica indre viker (men kraftige kast!), Sutomišćica (Ugljan) |
-| **Jugo bygger seg opp** | Alt som vender nord/vest: Marina Punat, ACI Cres, Mali Lošinj, Brgulje, Sutomišćica, Marina Zadar. Unngå sør-åpne bukter (Baška, Lopar, Žalić på Silba) |
+| **Jugo bygger seg opp** | Alt som vender nord/vest: Marina Punat, ACI Cres, Mali Lošinj, Brgulje, Sutomišćica, Marina Zadar. Unngå sør-åpne bukter (Baška, Lopar, Mul/østsiden av Silba) |
 | **Bare trenger vann/strøm/dusj** | ACI Pula, Marina Veruda, Mali Lošinj, ACI Cres, Marina Punat, ACI Rab, Marina Zadar |
 | **Trangt om plassen (juli/aug)** | Vær fremme før kl. 14–15 i de populære (Rovinj, Mali Lošinj riva, Ilovik, Telašćica, Kornati-buktene) |
+
+## «Stemmer fra nettet»
+
+Hver fil avsluttes med seksjonen **Stemmer fra nettet** — erfaringer og meninger fra seilere hentet fra Navily, Cruisers Wiki, NoForeignLand, Tripadvisor, seilforum og lignende (innhentet juni 2026): hva folk roser og klager på, omtrentlige priser med årstall, og nylige endringer. Seksjonene er skrevet som flytende prosa nettopp for at de skal fungere opplest — last gjerne hele `havner/`-katalogen opp i NotebookLM sammen med lydbok-kapitlene, så kan dere generere en egen «havnepodd» per område eller spørre den muntlig om kveldens havnevalg.
 
 ## Symbolforklaring i filene
 
