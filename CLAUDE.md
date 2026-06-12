@@ -8,7 +8,6 @@ Prosjekt: to ukers familieseilas (5 pers.) fra Pula tur/retur, sommer 2026. Repo
 - `havner/<område>/<sted>.md` — én fil per øy/område i rutas rekkefølge. Fast format: `## <Havn>` med punktene Type / Le for–utsatt for / Fasiliteter / Notater, en avsluttende **Ved bura / Ved jugo**-linje, og nederst `## Stemmer fra nettet` (se under).
 - `lydbok/NN-<tema>.md` — historiekapitler skrevet for opplesning.
 - `kart/seiltur-kroatia.kml` + `.gpx` — samme innhold som havneguiden i kartform.
-- `generate-book-SKILL.md` — opphavet til reglene her (gitignored, skal ikke committes).
 
 **Synk-regel:** Endres et faktum om en havn (navn, plassering, le-retning, status), skal endringen speiles tre steder: havnefilen, `kart/`-filene (KML **og** GPX) og hurtigtabellen i `havner/README.md`. Kartfilene valideres med en XML-parser før commit. KML bruker lon,lat-rekkefølge; GPX bruker lat/lon-attributter og ASCII-navn (ingen æøå/diakritika i `<name>`).
 
