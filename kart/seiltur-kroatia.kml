@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Seiltur Kroatia — Pula tur/retur</name>
+<description>Havner, ankringsbukter og tre alternative ruter (A/B/C). Koordinater er omtrentlige — for orientering, IKKE for navigasjon. Bruk sjøkart/plotter til navigasjon.</description>
+<Style id="marina"><IconStyle><color>ffdd7755</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/marina.png</href></Icon></IconStyle></Style>
+<Style id="anker"><IconStyle><color>ff75c4a0</color><Icon><href>http://maps.google.com/mapfiles/kml/shapes/sailing.png</href></Icon></IconStyle></Style>
+<Style id="ruteB"><LineStyle><color>ff759e1d</color><width>4</width></LineStyle></Style>
+<Style id="ruteA"><LineStyle><color>ffdd777f</color><width>4</width></LineStyle></Style>
+<Style id="ruteC"><LineStyle><color>ff305ad8</color><width>4</width></LineStyle></Style>
+
+<Folder><name>1. Istria</name>
+<Placemark><name>ACI Marina Pula</name><styleUrl>#marina</styleUrl><description>Bymarina ved Arenaen. Le for det meste. Vann/strøm/diesel. Start og mål.</description><Point><coordinates>13.8463,44.8757,0</coordinates></Point></Placemark>
+<Placemark><name>Marina Veruda</name><styleUrl>#marina</styleUrl><description>Tryggeste havn i området — allvær. Full service. Mange charterbaser.</description><Point><coordinates>13.8437,44.8390,0</coordinates></Point></Placemark>
+<Placemark><name>Veruda-bukta / Fratarski (ankring)</name><styleUrl>#anker</styleUrl><description>3–8 m sand/gress. Le N–Ø, utsatt S–SV.</description><Point><coordinates>13.8380,44.8280,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Marina Pomer</name><styleUrl>#marina</styleUrl><description>Innerst i Medulin-bukta, godt skjermet. Grunn innseiling — følg merker.</description><Point><coordinates>13.9015,44.8190,0</coordinates></Point></Placemark>
+<Placemark><name>Medulin-bukta (ankring)</name><styleUrl>#anker</styleUrl><description>3–6 m sand/gress, stor plass. Krapp sjø ved kraftig jugo.</description><Point><coordinates>13.9290,44.8170,0</coordinates></Point></Placemark>
+<Placemark><name>Portić (Kamenjak, dagsbukt)</name><styleUrl>#anker</styleUrl><description>Lunsj/bad i rolig vær. Ikke overnatting i frisk vind.</description><Point><coordinates>13.9270,44.7800,0</coordinates></Point></Placemark>
+<Placemark><name>Rt Kamenjak</name><styleUrl>#anker</styleUrl><description>Odden: vind mot strøm gir krapp sjø. Gi 0,5–1 nm klaring i frisk vind.</description><Point><coordinates>13.9150,44.7670,0</coordinates></Point></Placemark>
+<Placemark><name>Fažana</name><styleUrl>#anker</styleUrl><description>Grunn fiskerihavn (sjekk dypgang!). Ferge til Brijuni. Ankring sør for havna i rolig vær.</description><Point><coordinates>13.8040,44.9277,0</coordinates></Point></Placemark>
+<Placemark><name>Brijuni NP (parkkai)</name><styleUrl>#marina</styleUrl><description>Dyr parkfortøyning (inkl. parkbillett — sjekk np-brijuni.hr). Ankring forbudt i parken.</description><Point><coordinates>13.7660,44.9110,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Marina Rovinj</name><styleUrl>#marina</styleUrl><description>Moderne og dyr, rett ved gamlebyen. Book i høysesong.</description><Point><coordinates>13.6380,45.0770,0</coordinates></Point></Placemark>
+<Placemark><name>Sv. Katarina (ankring)</name><styleUrl>#anker</styleUrl><description>4–10 m, flekkvis hold. Sjekk forbudssoner (Navily). Kveldsutsikt mot Rovinj.</description><Point><coordinates>13.6290,45.0760,0</coordinates></Point></Placemark>
+<Placemark><name>Limski kanal (innløp)</name><styleUrl>#anker</styleUrl><description>Dagsbesøk: vernet, skjellanlegg, begrenset ankring. Østers/blåskjell hos restaurantene innerst.</description><Point><coordinates>13.6560,45.1300,0</coordinates></Point></Placemark>
+<Placemark><name>Marina Vrsar</name><styleUrl>#marina</styleUrl><description>Rolig småby under gamlebyhaugen. Le for det meste.</description><Point><coordinates>13.6040,45.1490,0</coordinates></Point></Placemark>
+<Placemark><name>Poreč (bykai/marina)</name><styleUrl>#marina</styleUrl><description>Liten havn bak Sv. Nikola — kom tidlig. Eufrasius-basilikaen 5 min unna.</description><Point><coordinates>13.5930,45.2270,0</coordinates></Point></Placemark>
+</Folder>
+
+<Folder><name>2. Kvarner</name>
+<Placemark><name>Unije landsby (bøyer/ankring)</name><styleUrl>#anker</styleUrl><description>Le N–Ø (bura fralands), utsatt V–SV. Konobaer, minimarked i sesong.</description><Point><coordinates>14.2440,44.6420,0</coordinates></Point></Placemark>
+<Placemark><name>Maracol (bøyefelt)</name><styleUrl>#anker</styleUrl><description>Le V–SV (maestral), utsatt NØ — ikke i bura. Roligere enn landsbysiden.</description><Point><coordinates>14.2580,44.6480,0</coordinates></Point></Placemark>
+<Placemark><name>Susak (havn/ankring)</name><styleUrl>#anker</styleUrl><description>Best som dagsstopp. Liten grunn molohavn; ankring utenfor på sand. Sandstrender!</description><Point><coordinates>14.3080,44.5150,0</coordinates></Point></Placemark>
+<Placemark><name>Mali Lošinj (marina + riva)</name><styleUrl>#marina</styleUrl><description>Allvær-havn, beste proviantstopp i Kvarner. Apoxyomenos-museet.</description><Point><coordinates>14.4670,44.5320,0</coordinates></Point></Placemark>
+<Placemark><name>Čikat (bøyer)</name><styleUrl>#anker</styleUrl><description>Furubukta. Le N–Ø, utsatt V–SV. Gangsti til byen.</description><Point><coordinates>14.4530,44.5270,0</coordinates></Point></Placemark>
+<Placemark><name>Artatore (ankring)</name><styleUrl>#anker</styleUrl><description>3–8 m mudder/sand, godt hold. Le for nesten alt — beste gratis uværsskjul.</description><Point><coordinates>14.4220,44.5680,0</coordinates></Point></Placemark>
+<Placemark><name>Veli Lošinj / Rovenska</name><styleUrl>#anker</styleUrl><description>Fotogen mini-havn + Rovenska-bukta (le N–V, IKKE i jugo). Delfinsenteret.</description><Point><coordinates>14.5050,44.5230,0</coordinates></Point></Placemark>
+<Placemark><name>Ilovik-sundet (bøyer)</name><styleUrl>#anker</styleUrl><description>Beskyttet sund, strøm. Urolig i kraftig jugo. Kom tidlig.</description><Point><coordinates>14.5470,44.4630,0</coordinates></Point></Placemark>
+<Placemark><name>Osor (kai) + Bijar (bøyer)</name><styleUrl>#anker</styleUrl><description>Kanalbro åpner ca. kl. 09 og 17. Bijar 0,5 nm nord: le N–Ø.</description><Point><coordinates>14.3930,44.6920,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Marina Cres</name><styleUrl>#marina</styleUrl><description>Stor allvær-marina, 10 min til gamlebyen. Bura-le-siden av Kvarner.</description><Point><coordinates>14.4070,44.9530,0</coordinates></Point></Placemark>
+<Placemark><name>Valun (bøyer)</name><styleUrl>#anker</styleUrl><description>Le Ø–S, utsatt V–NV. Valun-tavlen (glagolittisk) i kirken.</description><Point><coordinates>14.3570,44.9040,0</coordinates></Point></Placemark>
+<Placemark><name>Martinšćica (bøyer/ankring)</name><styleUrl>#anker</styleUrl><description>Le N–Ø, utsatt S–SV. Mellomlanding på vestsiden av Cres.</description><Point><coordinates>14.3450,44.8230,0</coordinates></Point></Placemark>
+<Placemark><name>Marina Punat</name><styleUrl>#marina</styleUrl><description>Hurricane hole i Puntarska draga — tryggeste plass i Kvarner. Klosterøya Košljun.</description><Point><coordinates>14.6280,45.0220,0</coordinates></Point></Placemark>
+<Placemark><name>Krk by (bykai)</name><styleUrl>#marina</styleUrl><description>Le N–Ø, jugo gir dønning inn. Frankopan-borgen.</description><Point><coordinates>14.5750,45.0260,0</coordinates></Point></Placemark>
+<Placemark><name>Vrbnik</name><styleUrl>#anker</styleUrl><description>KUN i stabilt lett vær — full bura-eksponering. Žlahtina-vin, Klančić-gata.</description><Point><coordinates>14.6740,45.0790,0</coordinates></Point></Placemark>
+<Placemark><name>Stara Baška (ankring)</name><styleUrl>#anker</styleUrl><description>Le N–Ø med kast, utsatt S. Karrig og vakkert.</description><Point><coordinates>14.7000,44.9650,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Marina Rab + bykai</name><styleUrl>#marina</styleUrl><description>Byen med fire klokketårn. Kom før kl. 15 i høysesong.</description><Point><coordinates>14.7600,44.7570,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Supetarska Draga</name><styleUrl>#marina</styleUrl><description>Rolig alternativ NV på Rab. Grunn merket innseiling.</description><Point><coordinates>14.7240,44.7920,0</coordinates></Point></Placemark>
+<Placemark><name>Lopar / Paradise Beach (dagsankring)</name><styleUrl>#anker</styleUrl><description>Langgrunn sandstrand — barnas dag. KUN rolig vær, flytt før kvelden.</description><Point><coordinates>14.7380,44.8270,0</coordinates></Point></Placemark>
+</Folder>
+
+<Folder><name>3. Zadar-skjærgården</name>
+<Placemark><name>Silba — Žalić (bøyer)</name><styleUrl>#anker</styleUrl><description>Østsiden, ved landsbyen. Le V–SV (maestral). Bytt side ved bura. Lite vann på øya!</description><Point><coordinates>14.7080,44.3740,0</coordinates></Point></Placemark>
+<Placemark><name>Silba — vestsiden (ankring)</name><styleUrl>#anker</styleUrl><description>Bura-siden. 15–20 min gange til landsbyen. Solnedgang.</description><Point><coordinates>14.6940,44.3790,0</coordinates></Point></Placemark>
+<Placemark><name>Olib (bøyer)</name><styleUrl>#anker</styleUrl><description>Le N–Ø, utsatt V–SV. Saueost. Stille.</description><Point><coordinates>14.7780,44.3770,0</coordinates></Point></Placemark>
+<Placemark><name>Brgulje, Molat (bøyefelt)</name><styleUrl>#anker</styleUrl><description>UVÆRSSKJULET sør for Silba — le for nesten alt, godt hold i mudder.</description><Point><coordinates>14.8250,44.2380,0</coordinates></Point></Placemark>
+<Placemark><name>Zapuntel-sundet</name><styleUrl>#anker</styleUrl><description>Trangt og stemningsfullt. Strøm — fortøy deretter.</description><Point><coordinates>14.7930,44.2570,0</coordinates></Point></Placemark>
+<Placemark><name>Pantera / Marina Veli Rat</name><styleUrl>#marina</styleUrl><description>Liten marina + romslig ankringsbukt. Kveldstur til fyret (1849, 42 m).</description><Point><coordinates>14.8330,44.1480,0</coordinates></Point></Placemark>
+<Placemark><name>Veli Rat fyr</name><styleUrl>#anker</styleUrl><description>Adriaterhavets høyeste fyr. Fotostopp/landtur fra Pantera.</description><Point><coordinates>14.8180,44.1520,0</coordinates></Point></Placemark>
+<Placemark><name>Božava</name><styleUrl>#anker</styleUrl><description>Kai + bøyer, vann/strøm, butikk. Le S–Ø, utsatt N–NV.</description><Point><coordinates>14.9070,44.1380,0</coordinates></Point></Placemark>
+<Placemark><name>Sali</name><styleUrl>#marina</styleUrl><description>Fiskerlandsby, siste proviant før Telašćica/Kornati. Utsatt SØ (jugo).</description><Point><coordinates>15.1670,43.9360,0</coordinates></Point></Placemark>
+<Placemark><name>Telašćica — Mir (bøyefelt)</name><styleUrl>#anker</styleUrl><description>Naturpark, billett påbudt (pp-telascica.hr). Saltsjøen Mir + klippene. Voldsomme bura-kast.</description><Point><coordinates>15.1610,43.8910,0</coordinates></Point></Placemark>
+<Placemark><name>Statival (Kornati)</name><styleUrl>#anker</styleUrl><description>Nordligste Kornati-bukt, brukbar le. NP-billett påbudt.</description><Point><coordinates>15.2220,43.8520,0</coordinates></Point></Placemark>
+<Placemark><name>Levrnaka / Lojena (Kornati)</name><styleUrl>#anker</styleUrl><description>Konoba + bøyer. Lojena sandstrand over ryggen — barnefavoritt.</description><Point><coordinates>15.2600,43.8230,0</coordinates></Point></Placemark>
+<Placemark><name>Vrulje (Kornati)</name><styleUrl>#anker</styleUrl><description>Parkens største «landsby». Åpen mot V.</description><Point><coordinates>15.3050,43.7880,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Marina Piškera (Kornati)</name><styleUrl>#marina</styleUrl><description>Sesongmarina midt i parken. Vann rasjonert, ingen butikk.</description><Point><coordinates>15.3350,43.7610,0</coordinates></Point></Placemark>
+<Placemark><name>Lavsa (Kornati)</name><styleUrl>#anker</styleUrl><description>Nesten lukket lagune — populær, kom tidlig. God allround-le.</description><Point><coordinates>15.3570,43.7590,0</coordinates></Point></Placemark>
+<Placemark><name>Ravni Žakan (Kornati)</name><styleUrl>#anker</styleUrl><description>Restaurantkai sørøst i parken.</description><Point><coordinates>15.4420,43.7160,0</coordinates></Point></Placemark>
+<Placemark><name>ACI Marina Žut</name><styleUrl>#marina</styleUrl><description>Utenfor NP-grensen — ingen parkbillett. Kornati-landskap, vann begrenset.</description><Point><coordinates>15.3050,43.8860,0</coordinates></Point></Placemark>
+<Placemark><name>Marina Zadar (Tankerkomerc)</name><styleUrl>#marina</styleUrl><description>10 min til gamlebyen. Sjøorgelet ved solnedgang. Marked ved bymuren.</description><Point><coordinates>15.2230,44.1210,0</coordinates></Point></Placemark>
+<Placemark><name>D-Marin Borik</name><styleUrl>#marina</styleUrl><description>Større marina NV for sentrum.</description><Point><coordinates>15.2050,44.1350,0</coordinates></Point></Placemark>
+<Placemark><name>Sutomišćica, Ugljan</name><styleUrl>#anker</styleUrl><description>Marina + bukt. Et av områdets beste jugo-skjul. Zadar i synsavstand.</description><Point><coordinates>15.1890,44.1060,0</coordinates></Point></Placemark>
+<Placemark><name>Preko, Ugljan</name><styleUrl>#anker</styleUrl><description>Bykai/bøyer + klosterholmen Galevac. Ferge til Zadar.</description><Point><coordinates>15.1890,44.0830,0</coordinates></Point></Placemark>
+</Folder>
+
+<Folder><name>Ruter</name>
+<Placemark><name>Rute B — Kvarner-runden</name><styleUrl>#ruteB</styleUrl><description>Pula–Unije–Susak–Mali Lošinj–Ilovik–Silba–Rab–Punat–Osor–Cres–Unije–Pula. Skjematiske etapper — ikke navigasjonsrute.</description>
+<LineString><tessellate>1</tessellate><coordinates>
+13.8463,44.8757,0 13.7950,44.8680,0 13.9150,44.7550,0 14.2440,44.6420,0 14.3080,44.5150,0 14.4000,44.5550,0 14.4670,44.5320,0 14.4000,44.5550,0 14.4400,44.4750,0 14.5100,44.4580,0 14.5470,44.4630,0 14.7060,44.3740,0 14.7500,44.5500,0 14.7900,44.7200,0 14.7600,44.7570,0 14.7000,44.8500,0 14.6600,44.9500,0 14.6280,45.0220,0 14.6000,44.9900,0 14.4800,44.9200,0 14.3930,44.6920,0 14.3600,44.8000,0 14.4080,44.9580,0 14.3300,44.8300,0 14.3600,44.6900,0 14.2440,44.6420,0 14.1000,44.7000,0 13.9150,44.7550,0 13.7950,44.8680,0 13.8463,44.8757,0
+</coordinates></LineString></Placemark>
+<Placemark><name>Rute A — forlengelse mot sør</name><styleUrl>#ruteA</styleUrl><description>Silba–Veli Rat–Telašćica–Kornati–Zadar–Olib–Rab. Skjematiske etapper — ikke navigasjonsrute.</description>
+<LineString><tessellate>1</tessellate><coordinates>
+14.7060,44.3740,0 14.7700,44.2500,0 14.8330,44.1480,0 14.8050,44.1550,0 14.9500,44.0500,0 15.0500,43.9500,0 15.1350,43.8680,0 15.1610,43.8910,0 15.1500,43.8600,0 15.2600,43.8230,0 15.3050,43.7880,0 15.3350,43.7610,0 15.3570,43.7590,0 15.4420,43.7160,0 15.4000,43.8000,0 15.3500,43.9500,0 15.3000,44.0000,0 15.2230,44.1210,0 15.0500,44.2000,0 14.9000,44.3000,0 14.7780,44.3770,0 14.7800,44.5500,0 14.7600,44.7570,0
+</coordinates></LineString></Placemark>
+<Placemark><name>Rute C — Istria-kysten</name><styleUrl>#ruteC</styleUrl><description>Pula–Brijuni/Fažana–Rovinj–Lim–Vrsar–Poreč. Skjematiske etapper — ikke navigasjonsrute.</description>
+<LineString><tessellate>1</tessellate><coordinates>
+13.8463,44.8757,0 13.7900,44.8700,0 13.7700,44.8860,0 13.7660,44.9110,0 13.7550,44.9450,0 13.7000,45.0000,0 13.6250,45.0700,0 13.6380,45.0770,0 13.6100,45.1050,0 13.6560,45.1300,0 13.6200,45.1350,0 13.6040,45.1490,0 13.5900,45.1800,0 13.5930,45.2270,0
+</coordinates></LineString></Placemark>
+</Folder>
+
+</Document>
+</kml>

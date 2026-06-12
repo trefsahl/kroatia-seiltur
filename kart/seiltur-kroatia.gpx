@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="kroatia-seilplan" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Seiltur Kroatia — Pula tur/retur</name><desc>Havner og ankringsbukter + tre skjematiske ruter. Omtrentlige posisjoner — ikke for navigasjon; bruk sjøkart/plotter.</desc></metadata>
+
+<wpt lat="44.8757" lon="13.8463"><name>ACI Pula</name><desc>Bymarina ved Arenaen</desc><sym>Marina</sym></wpt>
+<wpt lat="44.8390" lon="13.8437"><name>Marina Veruda</name><desc>Allvær — tryggeste i området</desc><sym>Marina</sym></wpt>
+<wpt lat="44.8280" lon="13.8380"><name>Veruda-bukta</name><desc>Ankring, le N-O</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.8190" lon="13.9015"><name>ACI Pomer</name><desc>Medulin-bukta, skjermet</desc><sym>Marina</sym></wpt>
+<wpt lat="44.8170" lon="13.9290"><name>Medulin ankring</name><desc>3-6 m sand/gress</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.7800" lon="13.9270"><name>Portic</name><desc>Dagsbukt Kamenjak</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.7670" lon="13.9150"><name>Rt Kamenjak</name><desc>Krapp sjo - gi klaring i frisk vind</desc><sym>Danger</sym></wpt>
+<wpt lat="44.9277" lon="13.8040"><name>Fazana</name><desc>Grunn havn, ferge til Brijuni</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.9110" lon="13.7660"><name>Brijuni NP</name><desc>Parkkai, dyr. Ankring forbudt</desc><sym>Marina</sym></wpt>
+<wpt lat="45.0770" lon="13.6380"><name>ACI Rovinj</name><desc>Ved gamlebyen, book</desc><sym>Marina</sym></wpt>
+<wpt lat="45.0760" lon="13.6290"><name>Sv. Katarina</name><desc>Ankring, sjekk forbudssoner</desc><sym>Anchor</sym></wpt>
+<wpt lat="45.1300" lon="13.6560"><name>Limski kanal</name><desc>Dagsbesok, begrenset ankring</desc><sym>Anchor</sym></wpt>
+<wpt lat="45.1490" lon="13.6040"><name>Marina Vrsar</name><desc>Rolig smaby</desc><sym>Marina</sym></wpt>
+<wpt lat="45.2270" lon="13.5930"><name>Porec</name><desc>Liten havn, kom tidlig</desc><sym>Marina</sym></wpt>
+
+<wpt lat="44.6420" lon="14.2440"><name>Unije landsby</name><desc>Boyer. Le N-O, utsatt V-SV</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.6480" lon="14.2580"><name>Maracol</name><desc>Boyefelt. Le V-SV, IKKE bura</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.5150" lon="14.3080"><name>Susak</name><desc>Dagsstopp, ankring pa sand</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.5320" lon="14.4670"><name>Mali Losinj</name><desc>Allvar-havn, proviant</desc><sym>Marina</sym></wpt>
+<wpt lat="44.5270" lon="14.4530"><name>Cikat</name><desc>Boyer, furubukt</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.5680" lon="14.4220"><name>Artatore</name><desc>Ankring, godt hold, le for det meste</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.5230" lon="14.5050"><name>Veli Losinj/Rovenska</name><desc>Le N-V, IKKE jugo</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.4630" lon="14.5470"><name>Ilovik-sundet</name><desc>Boyer, strom, kom tidlig</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.6920" lon="14.3930"><name>Osor</name><desc>Bro apner ca 09 og 17. Bijar 0,5 nm N</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.9530" lon="14.4070"><name>ACI Cres</name><desc>Allvar-marina, bura-le-siden</desc><sym>Marina</sym></wpt>
+<wpt lat="44.9040" lon="14.3570"><name>Valun</name><desc>Boyer. Le O-S</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.8230" lon="14.3450"><name>Martinscica</name><desc>Boyer. Le N-O</desc><sym>Anchor</sym></wpt>
+<wpt lat="45.0220" lon="14.6280"><name>Marina Punat</name><desc>Hurricane hole - tryggest i Kvarner</desc><sym>Marina</sym></wpt>
+<wpt lat="45.0260" lon="14.5750"><name>Krk by</name><desc>Jugo gir donning inn</desc><sym>Marina</sym></wpt>
+<wpt lat="45.0790" lon="14.6740"><name>Vrbnik</name><desc>KUN stabilt var - bura-eksponert</desc><sym>Danger</sym></wpt>
+<wpt lat="44.9650" lon="14.7000"><name>Stara Baska</name><desc>Ankring. Le N-O m/kast</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.7570" lon="14.7600"><name>ACI Rab</name><desc>Fire klokketarn, kom for kl 15</desc><sym>Marina</sym></wpt>
+<wpt lat="44.7920" lon="14.7240"><name>Supetarska Draga</name><desc>Rolig ACI-marina, grunn innseiling</desc><sym>Marina</sym></wpt>
+<wpt lat="44.8270" lon="14.7380"><name>Lopar/Paradise</name><desc>Dagsankring sand, KUN rolig var</desc><sym>Anchor</sym></wpt>
+
+<wpt lat="44.3740" lon="14.7080"><name>Silba Zalic</name><desc>Boyer ostsiden. Bytt side ved bura. Lite vann</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.3790" lon="14.6940"><name>Silba vest</name><desc>Bura-siden</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.3770" lon="14.7780"><name>Olib</name><desc>Boyer. Le N-O</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.2380" lon="14.8250"><name>Brgulje Molat</name><desc>UVARSSKJULET - le nesten alt, godt hold</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.2570" lon="14.7930"><name>Zapuntel</name><desc>Sund, strom</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.1480" lon="14.8330"><name>Pantera/Veli Rat</name><desc>Marina + ankringsbukt. Fyret 1849</desc><sym>Marina</sym></wpt>
+<wpt lat="44.1380" lon="14.9070"><name>Bozava</name><desc>Kai/boyer, butikk. Utsatt N-NV</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.9360" lon="15.1670"><name>Sali</name><desc>Siste proviant for parkene. Utsatt SO</desc><sym>Marina</sym></wpt>
+<wpt lat="43.8910" lon="15.1610"><name>Telascica Mir</name><desc>Naturpark, billett. Bura-kast! Saltsjoen</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.8520" lon="15.2220"><name>Statival</name><desc>Kornati NP - billett pabudt</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.8230" lon="15.2600"><name>Levrnaka</name><desc>Konoba + Lojena sandstrand</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.7880" lon="15.3050"><name>Vrulje</name><desc>Kornati-landsby, apen mot V</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.7610" lon="15.3350"><name>ACI Piskera</name><desc>Sesongmarina, vann rasjonert</desc><sym>Marina</sym></wpt>
+<wpt lat="43.7590" lon="15.3570"><name>Lavsa</name><desc>Lagune, kom tidlig</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.7160" lon="15.4420"><name>Ravni Zakan</name><desc>Restaurantkai SO i parken</desc><sym>Anchor</sym></wpt>
+<wpt lat="43.8860" lon="15.3050"><name>ACI Zut</name><desc>Utenfor NP - ingen billett</desc><sym>Marina</sym></wpt>
+<wpt lat="44.1210" lon="15.2230"><name>Marina Zadar</name><desc>10 min til gamlebyen, sjoorgelet</desc><sym>Marina</sym></wpt>
+<wpt lat="44.1350" lon="15.2050"><name>D-Marin Borik</name><desc>Storre marina NV for sentrum</desc><sym>Marina</sym></wpt>
+<wpt lat="44.1060" lon="15.1890"><name>Sutomiscica</name><desc>Beste jugo-skjul ved Zadar</desc><sym>Anchor</sym></wpt>
+<wpt lat="44.0830" lon="15.1890"><name>Preko</name><desc>Kai/boyer, ferge til Zadar</desc><sym>Anchor</sym></wpt>
+
+<rte><name>Rute B - Kvarner-runden</name>
+<rtept lat="44.8757" lon="13.8463"><name>Pula</name></rtept>
+<rtept lat="44.8680" lon="13.7950"><name>Pula-bukta ut</name></rtept>
+<rtept lat="44.7550" lon="13.9150"><name>Rt Kamenjak klaring</name></rtept>
+<rtept lat="44.6420" lon="14.2440"><name>Unije</name></rtept>
+<rtept lat="44.5150" lon="14.3080"><name>Susak</name></rtept>
+<rtept lat="44.5550" lon="14.4000"><name>Losinj-bukta inn</name></rtept>
+<rtept lat="44.5320" lon="14.4670"><name>Mali Losinj</name></rtept>
+<rtept lat="44.5550" lon="14.4000"><name>Losinj-bukta ut</name></rtept>
+<rtept lat="44.4750" lon="14.4400"><name>V av Losinj</name></rtept>
+<rtept lat="44.4580" lon="14.5100"><name>S av Losinj</name></rtept>
+<rtept lat="44.4630" lon="14.5470"><name>Ilovik</name></rtept>
+<rtept lat="44.3740" lon="14.7060"><name>Silba</name></rtept>
+<rtept lat="44.5500" lon="14.7500"><name>Kvarneric</name></rtept>
+<rtept lat="44.7200" lon="14.7900"><name>Barbat-kanalen</name></rtept>
+<rtept lat="44.7570" lon="14.7600"><name>Rab</name></rtept>
+<rtept lat="44.8500" lon="14.7000"><name>Mot Krk</name></rtept>
+<rtept lat="44.9500" lon="14.6600"><name>SV Krk</name></rtept>
+<rtept lat="45.0220" lon="14.6280"><name>Punat</name></rtept>
+<rtept lat="44.9900" lon="14.6000"><name>Ut av Puntarska</name></rtept>
+<rtept lat="44.9200" lon="14.4800"><name>S av Plavnik</name></rtept>
+<rtept lat="44.6920" lon="14.3930"><name>Osor (bro 09/17)</name></rtept>
+<rtept lat="44.8000" lon="14.3600"><name>V-kysten Cres</name></rtept>
+<rtept lat="44.9580" lon="14.4080"><name>Cres by</name></rtept>
+<rtept lat="44.8300" lon="14.3300"><name>V-kysten S</name></rtept>
+<rtept lat="44.6900" lon="14.3600"><name>V av Osor</name></rtept>
+<rtept lat="44.6420" lon="14.2440"><name>Unije</name></rtept>
+<rtept lat="44.7000" lon="14.1000"><name>Kvarner-kryssing</name></rtept>
+<rtept lat="44.7550" lon="13.9150"><name>Rt Kamenjak klaring</name></rtept>
+<rtept lat="44.8680" lon="13.7950"><name>Pula-bukta inn</name></rtept>
+<rtept lat="44.8757" lon="13.8463"><name>Pula</name></rtept>
+</rte>
+
+<rte><name>Rute A - forlengelse sor</name>
+<rtept lat="44.3740" lon="14.7060"><name>Silba</name></rtept>
+<rtept lat="44.2500" lon="14.7700"><name>Mot Dugi otok</name></rtept>
+<rtept lat="44.1480" lon="14.8330"><name>Pantera/Veli Rat</name></rtept>
+<rtept lat="44.1550" lon="14.8050"><name>Rundt fyret</name></rtept>
+<rtept lat="44.0500" lon="14.9500"><name>Utsiden Dugi otok</name></rtept>
+<rtept lat="43.9500" lon="15.0500"><name>Utsiden Dugi otok 2</name></rtept>
+<rtept lat="43.8680" lon="15.1350"><name>Telascica innlop</name></rtept>
+<rtept lat="43.8910" lon="15.1610"><name>Telascica Mir</name></rtept>
+<rtept lat="43.8600" lon="15.1500"><name>Ut igjen</name></rtept>
+<rtept lat="43.8230" lon="15.2600"><name>Levrnaka</name></rtept>
+<rtept lat="43.7880" lon="15.3050"><name>Vrulje</name></rtept>
+<rtept lat="43.7610" lon="15.3350"><name>Piskera</name></rtept>
+<rtept lat="43.7590" lon="15.3570"><name>Lavsa</name></rtept>
+<rtept lat="43.7160" lon="15.4420"><name>Ravni Zakan</name></rtept>
+<rtept lat="43.8000" lon="15.4000"><name>Nordover Kornati-kanalen</name></rtept>
+<rtept lat="43.9500" lon="15.3500"><name>Mot Zadar-kanalen</name></rtept>
+<rtept lat="44.0000" lon="15.3000"><name>Zadar-kanalen</name></rtept>
+<rtept lat="44.1210" lon="15.2230"><name>Zadar</name></rtept>
+<rtept lat="44.2000" lon="15.0500"><name>Mot Olib</name></rtept>
+<rtept lat="44.3000" lon="14.9000"><name>Mot Olib 2</name></rtept>
+<rtept lat="44.3770" lon="14.7780"><name>Olib</name></rtept>
+<rtept lat="44.5500" lon="14.7800"><name>Kvarneric</name></rtept>
+<rtept lat="44.7570" lon="14.7600"><name>Rab</name></rtept>
+</rte>
+
+<rte><name>Rute C - Istria-kysten</name>
+<rtept lat="44.8757" lon="13.8463"><name>Pula</name></rtept>
+<rtept lat="44.8700" lon="13.7900"><name>Pula-bukta ut</name></rtept>
+<rtept lat="44.8860" lon="13.7700"><name>Mot Brijuni</name></rtept>
+<rtept lat="44.9110" lon="13.7660"><name>Brijuni</name></rtept>
+<rtept lat="44.9450" lon="13.7550"><name>Fazana-kanalen N</name></rtept>
+<rtept lat="45.0000" lon="13.7000"><name>Langs kysten</name></rtept>
+<rtept lat="45.0700" lon="13.6250"><name>Utenfor Rovinj</name></rtept>
+<rtept lat="45.0770" lon="13.6380"><name>Rovinj</name></rtept>
+<rtept lat="45.1050" lon="13.6100"><name>Mot Lim</name></rtept>
+<rtept lat="45.1300" lon="13.6560"><name>Limski kanal</name></rtept>
+<rtept lat="45.1350" lon="13.6200"><name>Ut av Lim</name></rtept>
+<rtept lat="45.1490" lon="13.6040"><name>Vrsar</name></rtept>
+<rtept lat="45.1800" lon="13.5900"><name>Langs kysten</name></rtept>
+<rtept lat="45.2270" lon="13.5930"><name>Porec</name></rtept>
+</rte>
+
+</gpx>
