@@ -48,7 +48,7 @@ Verifiser at filen finnes og har størrelse før du melder suksess. PDF-en er fo
 
 ## Git
 
-Repo: `git@github.com:trefsahl/kroatia-seiltur.git` (push til `main` er etablert praksis her). Commit-meldinger på norsk, med beskrivende brødtekst ved substansielle endringer. `.DS_Store` og `generate-book-SKILL.md` er gitignored.
+Repo: `git@github.com:trefsahl/kroatia-seiltur.git` (push til `main` er etablert praksis her). Commit-meldinger på norsk, med beskrivende brødtekst ved substansielle endringer. `.DS_Store` er gitignored.
 
 ## Vanlige feil å unngå
 
